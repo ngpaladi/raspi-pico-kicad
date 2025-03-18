@@ -1061,19 +1061,6 @@
 		)
 		(stroke
 			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "Margin")
-		(uuid "5c7d0c20-7231-49cf-a7ab-ab04c8afa7fe")
-	)
-	(fp_poly
-		(pts
-			(xy 10.5 25.5) (xy -10.5 25.5) (xy -10.5 -25.5) (xy -4 -25.5) (xy -4 -27) (xy 4 -27) (xy 4 -25.5)
-			(xy 10.5 -25.5)
-		)
-		(stroke
-			(width 0.1)
 			(type solid)
 		)
 		(fill no)
